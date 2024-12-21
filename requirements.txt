@@ -2,6 +2,7 @@ streamlit
 langchain
 openai
 langchain_openai
+langchain_chroma
 chromadb
 pandas
 numpy
